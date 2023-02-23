@@ -23,4 +23,11 @@ No momento estou preparando o ambiente para programar o desafio, logo vou fazer 
 
 # ===================================== 
 
+## 3 Column Preview Card Component | Desktop | 2023/02/22
+Já terminei a base desktop, não foi dificil de usar os elementos do Html, tanto que não to usando tanta div estou usando outros elementos para está função, também estou usando pouca linha de codigo para programar no Css;
+
+![Model Desktop](./public/image/Desktop.png)
+
+# ===================================== 
+
 ### Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
