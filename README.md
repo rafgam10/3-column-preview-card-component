@@ -30,4 +30,17 @@ Já terminei a base desktop, não foi dificil de usar os elementos do Html, tant
 
 # ===================================== 
 
+## 3 Column Preview Card Component | Mobile | 2023/02/23
+Finalizei a parte responsiva do site usei tamanho min-width 320px e max-widt 1000px, assim não vai ter erro se um celular for tamanho 900px etc... , tirei algumas fotos dele com celular e inteiro, foi um pouco dificil de mexer com a parte de tamanho pois é primeira vez que mexo com tamanho muito grande, espero que gostem, esté é o projeto final do desafio;
+
+![Model Mobile-Post-1](./public/image/mobile-post-1.png)
+
+![Model Mobile-Post-2](./public/image/mobile-post-2.png)
+
+![Model Mobile-Post-3](./public/image/mobile-post-3.png)
+
+![Model Mobile-Post-4](./public/image/mobile-post-4.png)
+
+# ===================================== 
+
 ### Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
